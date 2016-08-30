@@ -1,0 +1,10 @@
+{
+	"dbURL":"mongodb://myuser:12345@ds161315.mlab.com:61315/chatcat_app",
+	"sessionSecret":"lshdkjsh48379jklfj38404jkfjdkljr",
+		"fb":{
+		"appID":"326959981027885",
+		"appSecret":"3dc0772e42c5c59d892887efa435558f",
+		"callbackURL":"httpss://awesomechattingapp.herokuapp.com/auth/facebook/callback"
+	},
+	"host":"https://awesomechattingapp.herokuapp.com"
+}
